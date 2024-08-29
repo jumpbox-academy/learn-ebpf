@@ -14,4 +14,4 @@ This repo was originally created with the code samples to accompany my talk "Pro
   - slide: [PDF](./slide/2024-08-29-dev-club-ebpf/03-introduction-cilium-ebpf-network.pdf), [Live](https://docs.google.com/presentation/d/1QlIdys51UTxy5naXyMsrpA342GBmdMG9xY-44y5vtGM/edit#slide=id.p1)
 
 - Session 4: Kubernetes Security with eBPF | Mongkol Thongkraikaew (Head of Platform Engineering@Ascend Money)
-  - slide: [PDF]()
+  - slide: [PDF](./slide/2024-08-29-dev-club-ebpf/04-kubernetes-security-with-ebpf.pdf)
