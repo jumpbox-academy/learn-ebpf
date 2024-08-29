@@ -29,8 +29,16 @@ if you want or rush, please try as same as MacOS
 
 ## How to run
 ### Running eBPF Program
+```bash
+sudo python3 <name.py>
 ```
-sudo python3
+1. Running hello world
+```bash
+sudo python3 hello.py
+```
+2. Running ebpf for counting userID in linux
+```bash
+sudo python3 ebpf.py
 ```
 
 ## Note

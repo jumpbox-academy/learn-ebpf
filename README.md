@@ -5,6 +5,7 @@ This repo was originally created with the code samples to accompany my talk "Pro
 
 - Session 1: Programmatic on Linux Kernel with eBPF | JoJo Jumpbox (Saritrat Jirakulphondchai)
   - slide: [PDF](/slide/2024-08-29-dev-club-ebpf/01-programmatic-on-linux-kernel%20with-ebpf.pdf), [Live](https://docs.google.com/presentation/d/17E7O1pnyoKN9Y0--QW2zVzVpuzSrL6856SmtIQMNNGc/pub?start=false&loop=false&delayms=3000)
+  - code: [Python](./python)
 
 - Session 2: Grafana Beyla | Peenanat Ounhanan (Senior Associate Cloud Engineer@Arise by Infinitas)
   - slide: [PDF](./slide/2024-08-29-dev-club-ebpf/Grafana-Beyla.pdf) 
