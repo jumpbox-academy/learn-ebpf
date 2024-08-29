@@ -33,3 +33,6 @@ if you want or rush, please try as same as MacOS
 sudo python3
 ```
 
+## Note
+I'm using Linux lima-ebpf-lima-vm 5.15.0-72-generic #79-Ubuntu SMP aarch64 aarch64 aarch64 GNU/Linux
+
