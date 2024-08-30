@@ -8,7 +8,7 @@ This repo was originally created with the code samples to accompany my talk "Pro
   - code: [Python](./python)
 
 - Session 2: Grafana Beyla | Peenanat Ounhanan (Senior Associate Cloud Engineer@Arise by Infinitas)
-  - slide: [PDF](./slide/2024-08-29-dev-club-ebpf/Grafana-Beyla.pdf) 
+  - slide: [PDF](./slide/2024-08-29-dev-club-ebpf/02-grafana-beyla.pdf) 
 
 - Session 3: Cilium: eBPF-based Networking, Security, and Observability | Praparn Lungpoonlap (Cloud Director@InnovestX)
   - slide: [PDF](./slide/2024-08-29-dev-club-ebpf/03-introduction-cilium-ebpf-network.pdf), [Live](https://docs.google.com/presentation/d/1QlIdys51UTxy5naXyMsrpA342GBmdMG9xY-44y5vtGM/edit#slide=id.p1)
